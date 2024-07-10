@@ -1,0 +1,9 @@
+#NLW Rocketseat jul-2024
+
+O desafio foi montar uma API para gestão de viagens. Foi desenvolvido:
+
+- CRUD de viagens
+- Vínculo de participantes
+- Envio de e-mail de confirmação para os participantes
+- Validação dos dados de entrada utilizando Zod
+- Customização dos erros com o Fastify
